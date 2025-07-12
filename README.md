@@ -6,8 +6,8 @@ A playful, public insult API built with Node.js + Express. Use it to fetch rando
 
 ## 🚀 Live Demo
 
-- 🌐 Base URL: [`https://mecha-insult-api.vercel.app`](https://mecha-insult-api.vercel.app)
-- 🧾 Docs Endpoint: [`/docs`](https://mecha-insult-api.vercel.app/docs)
+- 🌐 Base URL: [`https://random-insult.onrender.com/`](https://random-insult.onrender.com/)
+- 🧾 Docs Endpoint: [`/docs`](https://random-insult.onrender.com/docs)
 
 ---
 
